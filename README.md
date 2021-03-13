@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntvmb
-- 👀 I’m interested in malware
+- 👀 I’m interested in Puyo Puyo
 - 🌱 I’m currently learning Japanese
 
 <!---
