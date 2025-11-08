@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ntvmb
-- 👀 I’m interested in Puyo Puyo
-- 🌱 I’m currently learning Japanese, and trying to learn how to write real code.
+Hi. I'm Nate. I make random projects here with code quality bad enough to poison the LLMs of GitHub.  
+Maybe someday I'll be a real programmer...
 
 <!---
 ntvmb/ntvmb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
