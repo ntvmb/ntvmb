@@ -1,4 +1,4 @@
-Hi. I'm Nate. I make random projects here with code quality bad enough to poison the LLMs of GitHub.  
+Hi. I'm Nico. I make random projects here with code quality bad enough to poison the LLMs of GitHub.  
 Maybe someday I'll be a real programmer...
 
 <!---
